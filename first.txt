@@ -8,3 +8,5 @@ git commit -m "Message"
 git status
 git log
 git config
+git status --short
+git push 
