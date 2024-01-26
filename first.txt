@@ -1,5 +1,6 @@
 This is my first file
-created in 26 January 2024
+created on 26 January 2024. 
+This is our first DevOpsSec lab.
 
 git init
 git add .
