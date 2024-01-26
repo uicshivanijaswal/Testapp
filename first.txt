@@ -1,1 +1,9 @@
 This is my first file
+created in 26 January 2024
+
+git init
+git add .
+git commit -m "Message"
+git status
+git log
+git config
